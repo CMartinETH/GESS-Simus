@@ -1,7 +1,7 @@
 # Modeling and Simulation of Social Systems Fall 2018 – Research Plan
 
-> * Group Name: Roluch
-> * Group participants names: Bircher Lukas, Martin Christoph, Robin Lukas
+> * Group Name: Freewalk
+> * Group participants names: Bircher Lukas, Martin Christoph, Robin Stähli
 > * Project Title: (can be changed later)
 > * Programming language: Python
 
