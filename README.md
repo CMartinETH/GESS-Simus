@@ -1,10 +1,9 @@
-# Modeling and Simulation of Social Systems Fall 2018 – Research Plan (Template)
-(text between brackets to be removed)
+# Modeling and Simulation of Social Systems Fall 2018 – Research Plan
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
+> * Group Name: Roluch
+> * Group participants names: Bircher Lukas, Martin Christoph, Robin Lukas
 > * Project Title: (can be changed later)
-> * Programming language: (Python or MATLAB)
+> * Programming language: Python
 
 ## General Introduction
 
