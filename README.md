@@ -26,10 +26,6 @@ The goal is to show that simulations are able to model the real world to some ex
 5.    When it reaches 500 iterations, it will output a figure (might be in the background). It should show a triangle. This is
       emerged path of the pedestrians, walking from 3 starting points to a random chosen other end point. 
 
-
-e.g. git clone URL_PROY; cd URL_PROY; python3 main.py --light_test (#--light test runs in less than 5minutes with up to date hardware)) 
-
-
 ## The Model
 
 Most of the mathematical model is based on the paper of Dirk Helbing, Joachim Keltsch & Péter Molnàr. It was published in journal Nature in 1997 and is called "Modelling the evolution of human trail systems". There are several variables which can be changed, such as the visibility (which is a value of how far a pedestrian can see the trail), the durability (how fast will the grass regrow or the trail disappear), the amount of pedestrians and the intensity (which is a value of how fast the trail is destroyed by each pedestrian). <br>
