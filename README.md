@@ -12,7 +12,7 @@ The goal is to show that simulations are able to model the real world to some ex
 
 ## The Model
 
-Most of the mathematical model is based on the paper of Dirk Helbing, Joachim Keltsch & Péter Molnàr. It was published in journal Nature in 1997 and is called "Modelling the evolution of human trail systems". There are several variables which can be changed, such as the visibility (which is a value of how far a pedestrian can see the trail), the durability (how fast will the grass regrow or the trail disappear), the amount of pedestrians and the intensity (which is a value of how fast the trail is destroyed by each pedestrian). 
+Most of the mathematical model is based on the paper of Dirk Helbing, Joachim Keltsch & Péter Molnàr. It was published in journal Nature in 1997 and is called "Modelling the evolution of human trail systems". There are several variables which can be changed, such as the visibility (which is a value of how far a pedestrian can see the trail), the durability (how fast will the grass regrow or the trail disappear), the amount of pedestrians and the intensity (which is a value of how fast the trail is destroyed by each pedestrian). <br>
 There might be some other aspects we did not capture, such as big groups walking on the field at the same time. This will form wider trails.
 
 ## Fundamental Questions
