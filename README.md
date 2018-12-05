@@ -12,11 +12,11 @@ The goal is to show that simulations are able to model the real world to some ex
 ## Reproducibility
 
 1.    Download the file xxxx
-2.    Make sure you have matplotlib and numpy installed
-  2.2 If you have installed it already, skip to task 3
+2.    Make sure you have matplotlib and numpy installed <br>
+  2.2 If you have installed it already, skip to task 3<br>
   2.1   If you do not have it, you can download and install it by opening a terminal / command line, (activating your 
-        environment if you have one) and enter:     
-        pip install numpy
+        environment if you have one) and enter:     <br>
+        pip install numpy<br>
         pip install matplotlib
 3.    Open your favourite python development environment e.g. PyCharm
 4.    Open the downloaded filexxxxxx   
