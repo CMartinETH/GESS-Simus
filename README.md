@@ -9,6 +9,10 @@
 
 The goal is to show that simulations are able to model the real world to some extent. Therefore a model which can simulate human trail systems was built. The model was tested with basic examples also stated in the paper of Dirk Helbing et al., further expanded to a real world park in Alcala, Spain. 
 
+## Reproducibility
+
+(step by step instructions to reproduce your results. *Keep in mind that people reading this should accomplish to reproduce your work within 20 minutes. It needs to be self-contained and easy to use*. e.g. git clone URL_PROY; cd URL_PROY; python3 main.py --light_test (#--light test runs in less than 5minutes with up to date hardware)) 
+
 
 ## The Model
 
@@ -24,17 +28,16 @@ The last question is, what effect does the visibility have on the outcome of the
 ## Results
 
 The code definitely works and delivers similar results to the paper of Dirk Helbing et al., therefore the further tests on the real world case were done.<br>
-Our real world case shows 
+The real world problem shows that the model is accurate, but depends strongly on the boundary conditions. <br>
 These tests also show the effect of the visibility on the outcome. It has the largest effect on the system. The type of emerging way system depends upon the chosen visibility (sigma). 
-
-(What are the answers to the above questions that you expect to find before starting your research?)
 
 
 ## References 
 
-(Add the bibliographic references you intend to use)
-(Explain possible extension to the above models)
-(Code / Projects Reports of the previous year)
+
+Dirk Helbing, Joachim Keltsch & Péter Molnàr. <br> 
+Modelling the evolution of human trail systems. <br>
+Macmillan Publishers Ltd, Nature, 1997.
 
 
 ## Research Methods
@@ -46,7 +49,5 @@ Our model is agent-based. Its goal is to show the interactions between the syste
 
 We used data found on google earth to display the real world. 
 
-# Reproducibility
 
-(step by step instructions to reproduce your results. *Keep in mind that people reading this should accomplish to reproduce your work within 20 minutes. It needs to be self-contained and easy to use*. e.g. git clone URL_PROY; cd URL_PROY; python3 main.py --light_test (#--light test runs in less than 5minutes with up to date hardware)) 
 
