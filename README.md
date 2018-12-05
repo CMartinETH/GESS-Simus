@@ -17,12 +17,12 @@ There might be some other aspects we did not capture, such as big groups walking
 
 ## Fundamental Questions
 
-The fundamental question is, whether our model is capable of reflecting trail systems that emerged in the real world. 
-(At the end of the project you want to find the answer to these questions)
-(Formulate a few, clear questions. Articulate them in sub-questions, from the more general to the more specific. )
-
+The fundamental question is, whether our model is capable of reflecting trail systems that emerged in the real world. Before it is tested on a real problem, it should be evaluated on a test case, similar to the one Dirk Helbing et al. used in their paper. So this question should answer the overall capability of the program. <br>
+For further reproduction of the real world case, one certain park was chosen.<br>
+The last question is, what effect does the visibility have on the outcome of the simulation. 
 
 ## Expected Results
+
 
 (What are the answers to the above questions that you expect to find before starting your research?)
 
