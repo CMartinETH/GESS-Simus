@@ -2,10 +2,10 @@
 
 > * Group Name: Freewalk
 > * Group participants names: Bircher Lukas, Martin Christoph, Robin Stähli
-> * Project Title: (can be changed later)
+> * Project Title: Modelling Human Trail Systems and Implementation in a Real World Problem
 > * Programming language: Python
 
-## General Introduction
+## Introduction
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 (Add real-world examples, if any)
