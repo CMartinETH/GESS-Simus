@@ -7,11 +7,11 @@
 
 ## Introduction
 
-(States your motivation clearly: why is it important / interesting to solve this problem?)
-(Add real-world examples, if any)
-(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+The goal is to show that simulations are able to model the real world to some extent. Therefore a model which can simulate human trail systems was built. The model was tested with basic examples also stated in the paper of Dirk Helbing et al., further expanded to a real world park in Alcala, Spain. 
+Most of the mathematical model is based on the paper of Dirk Helbing, Joachim Keltsch & Péter Molnàr. It was published in journal Nature in 1997 and is called "Modelling the evolution of human trail systems".
 
 ## The Model
+
 
 (Define dependent and independent variables you want to study. Say how you want to measure them.) (Why is your model a good abstraction of the problem you want to study?) (Are you capturing all the relevant aspects of the problem?)
 
