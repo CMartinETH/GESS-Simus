@@ -21,8 +21,11 @@ The fundamental question is, whether our model is capable of reflecting trail sy
 For further reproduction of the real world case, one certain park was chosen.<br>
 The last question is, what effect does the visibility have on the outcome of the simulation. 
 
-## Expected Results
+## Results
 
+The code definitely works and delivers similar results to the paper of Dirk Helbing et al., therefore the further tests on the real world case were done.<br>
+Our real world case shows 
+These tests also show the effect of the visibility on the outcome. It has the largest effect on the system. The type of emerging way system depends upon the chosen visibility (sigma). 
 
 (What are the answers to the above questions that you expect to find before starting your research?)
 
