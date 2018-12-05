@@ -18,15 +18,16 @@ The goal is to show that simulations are able to model the real world to some ex
         environment if you have one) and enter:     <br>
         pip install numpy<br>
         pip install matplotlib
-3.    Open your favourite python development environment e.g. PyCharm
+3.    Open your favourite python development environment e.g. PyCharm, Spyder, Jupyter Notebook etc. 
 4.    Open the downloaded filexxxxxx   
       Important: Do NOT change anything in this file
       Start the program. It will output every iteration step, up to 500. This might take 1-2 minutes, depending on the CPU of 
       your computer.
-5.    When it reaches 500 iterations, it will output a figure (might be in the background). It should show 
+5.    When it reaches 500 iterations, it will output a figure (might be in the background). It should show a triangle. This is
+      emerged path of the pedestrians, walking from 3 starting points to a random chosen other end point. 
 
 
-(step by step instructions to reproduce your results. *Keep in mind that people reading this should accomplish to reproduce your work within 20 minutes. It needs to be self-contained and easy to use*. e.g. git clone URL_PROY; cd URL_PROY; python3 main.py --light_test (#--light test runs in less than 5minutes with up to date hardware)) 
+e.g. git clone URL_PROY; cd URL_PROY; python3 main.py --light_test (#--light test runs in less than 5minutes with up to date hardware)) 
 
 
 ## The Model
