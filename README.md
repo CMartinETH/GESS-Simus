@@ -11,6 +11,21 @@ The goal is to show that simulations are able to model the real world to some ex
 
 ## Reproducibility
 
+1.    Download the file xxxx
+2.    Make sure you have matplotlib and numpy installed
+  2.2 If you have installed it already, skip to task 3
+  2.1   If you do not have it, you can download and install it by opening a terminal / command line, (activating your 
+        environment if you have one) and enter:     
+        pip install numpy
+        pip install matplotlib
+3.    Open your favourite python development environment e.g. PyCharm
+4.    Open the downloaded filexxxxxx   
+      Important: Do NOT change anything in this file
+      Start the program. It will output every iteration step, up to 500. This might take 1-2 minutes, depending on the CPU of 
+      your computer.
+5.    When it reaches 500 iterations, it will output a figure (might be in the background). It should show 
+
+
 (step by step instructions to reproduce your results. *Keep in mind that people reading this should accomplish to reproduce your work within 20 minutes. It needs to be self-contained and easy to use*. e.g. git clone URL_PROY; cd URL_PROY; python3 main.py --light_test (#--light test runs in less than 5minutes with up to date hardware)) 
 
 
