@@ -5,8 +5,8 @@ The LARGE version is able to use the full computing potential (eg. parallelizati
 <br>
 To use the LIGHT version, the following steps have to be taken:
 1. Download the file LIGHT_Triangle_Freewalk.py
-2. Make sure you have matplotlib and numpy installed 
-2.2 If you have installed it already, skip to task 3
+2. Make sure you have matplotlib and numpy installed <br>
+2.2 If you have installed it already, skip to task 3 <br>
 2.1 If you do not have it, you can download and install it by opening a terminal / command line, (activating your environment if you have one) and enter: 
 pip install numpy
 pip install matplotlib
@@ -23,8 +23,8 @@ When it reaches 500 iterations, it will output a figure (might be in the backgro
 To use the LARGE version, the following steps have to be taken:
 1. Download the file LARGE_Park_Freewalk.py
 2. Move the downloaded files into a folder you want to. Make a folder where you want to save your output. 
-Make sure you have the toolboxes matplotlib, numpy, time, timeit, joblib, multiprocessing, and cv2 installed 
-2.2 If you have installed it already, skip to task 3
+Make sure you have the toolboxes matplotlib, numpy, time, timeit, joblib, multiprocessing, and cv2 installed <br>
+2.2 If you have installed it already, skip to task 3 <br>
 2.1 If you do not have it, you can download and install it by opening a terminal / command line, (activating your environment if you have one) and enter: 
 pip install numpy
 pip install matplotlib
