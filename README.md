@@ -11,7 +11,7 @@ The goal is to show that simulations are able to model the real world to some ex
 
 ## Reproducibility
 
-1.    Download the file xxxx
+1.    Download the file LIGHT_Triangle_Freewalk.py
 2.    Make sure you have matplotlib and numpy installed <br>
   2.2 If you have installed it already, skip to task 3<br>
   2.1   If you do not have it, you can download and install it by opening a terminal / command line, (activating your 
@@ -19,7 +19,7 @@ The goal is to show that simulations are able to model the real world to some ex
         pip install numpy<br>
         pip install matplotlib
 3.    Open your favourite python development environment e.g. PyCharm, Spyder, Jupyter Notebook etc. 
-4.    Open the downloaded filexxxxxx   
+4.    Open the downloaded file LIGHT_Triangle_Freewalk.py  
       Important: Do NOT change anything in this file
       Start the program. It will output every iteration step, up to 500. This might take 1-2 minutes, depending on the CPU of 
       your computer.
