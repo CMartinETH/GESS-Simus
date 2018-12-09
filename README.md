@@ -20,7 +20,7 @@ The goal is to show that simulations are able to model the real world to some ex
         pip install matplotlib
 3.    Open your favourite python development environment e.g. PyCharm, Spyder, Jupyter Notebook etc. 
 4.    Open the downloaded file LIGHT_Triangle_Freewalk.py  
-      Important: Do NOT change anything in this file
+      Important: Do NOT change anything in this file<br>
       Start the program. It will output every iteration step, up to 500. This might take 1-2 minutes, depending on the CPU of 
       your computer.
 5.    When it reaches 500 iterations, it will output a figure (might be in the background). It should show a triangle. This is
